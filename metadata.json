@@ -1,0 +1,8 @@
+{
+  "name": "SMAART Operations Suite",
+  "description": "Comprehensive Sales & Service Job Card workflow management system with engineer mobile inspection, inventory stock checks, purchase orders, quotations, and invoicing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
